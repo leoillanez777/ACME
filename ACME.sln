@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ACME.SchoolManagement", "ACME.SchoolManagement\ACME.SchoolManagement.csproj", "{0CF41159-0D72-407A-8AAD-EC089509D0B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ACME.SchoolManagement.Tests", "ACME.SchoolManagement.Tests\ACME.SchoolManagement.Tests.csproj", "{A44F8CBA-586F-450B-8E8F-BED29CC33B93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CF41159-0D72-407A-8AAD-EC089509D0B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF41159-0D72-407A-8AAD-EC089509D0B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF41159-0D72-407A-8AAD-EC089509D0B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF41159-0D72-407A-8AAD-EC089509D0B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A44F8CBA-586F-450B-8E8F-BED29CC33B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44F8CBA-586F-450B-8E8F-BED29CC33B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44F8CBA-586F-450B-8E8F-BED29CC33B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44F8CBA-586F-450B-8E8F-BED29CC33B93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C05CFF12-46C0-4ED1-AE98-5C3CE089CDC6}
+	EndGlobalSection
+EndGlobal

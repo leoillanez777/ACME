@@ -1,0 +1,11 @@
+/Users/leonardoillanez/Projects/AspNetCore/ACME/ACME.SchoolManagement/bin/Debug/net8.0/ACME.SchoolManagement.deps.json
+/Users/leonardoillanez/Projects/AspNetCore/ACME/ACME.SchoolManagement/bin/Debug/net8.0/ACME.SchoolManagement.dll
+/Users/leonardoillanez/Projects/AspNetCore/ACME/ACME.SchoolManagement/bin/Debug/net8.0/ACME.SchoolManagement.pdb
+/Users/leonardoillanez/Projects/AspNetCore/ACME/ACME.SchoolManagement/obj/Debug/net8.0/ACME.SchoolManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardoillanez/Projects/AspNetCore/ACME/ACME.SchoolManagement/obj/Debug/net8.0/ACME.SchoolManagement.AssemblyInfoInputs.cache
+/Users/leonardoillanez/Projects/AspNetCore/ACME/ACME.SchoolManagement/obj/Debug/net8.0/ACME.SchoolManagement.AssemblyInfo.cs
+/Users/leonardoillanez/Projects/AspNetCore/ACME/ACME.SchoolManagement/obj/Debug/net8.0/ACME.SchoolManagement.csproj.CoreCompileInputs.cache
+/Users/leonardoillanez/Projects/AspNetCore/ACME/ACME.SchoolManagement/obj/Debug/net8.0/ACME.SchoolManagement.dll
+/Users/leonardoillanez/Projects/AspNetCore/ACME/ACME.SchoolManagement/obj/Debug/net8.0/refint/ACME.SchoolManagement.dll
+/Users/leonardoillanez/Projects/AspNetCore/ACME/ACME.SchoolManagement/obj/Debug/net8.0/ACME.SchoolManagement.pdb
+/Users/leonardoillanez/Projects/AspNetCore/ACME/ACME.SchoolManagement/obj/Debug/net8.0/ref/ACME.SchoolManagement.dll
